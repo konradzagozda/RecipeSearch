@@ -1,3 +1,3 @@
 # RecipeSearch
 
-After reading a file with recipes, user can print recipes, and filter them by name, max cooking time, and ingredients used.
+After reading a file with recipes, user can print recipes, filter them by name, by max cooking time, or by ingredients used.
